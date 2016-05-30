@@ -1,11 +1,10 @@
 package main
 
-
 //bad cases
-func main () {
-  return Aloxa()
+func main() {
+	return Aloxa()
 }
 
 func Aloxa() {
-  println(`Aloxa`)
+	println(`Aloxa`)
 }
